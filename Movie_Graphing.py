@@ -1,4 +1,5 @@
 import pandas
+import statistics as stat
 import matplotlib.pyplot as plot
 
 graph = pandas.read_csv("Movie_Data.csv")
@@ -6,8 +7,12 @@ graph = pandas.read_csv("Movie_Data.csv")
 def avg(col):
     total = sum(col)/len(col)
     return total
-print(f"The avreage run time for the top 250 movies is {avg(graph["run_time"])} minutes.")
+def most_common(col):
+    return stat.mode(col)
 
-#graph.plot(x="year", y="rank", m="rating")
+print(f"The avreage run time for the top 250 movies is {avg(graph["run_time"])} minutes.")
+print(f"The most common age rating for the top 250 movies is {most_common(graph["age_rating"])}.")
+
+graph.plot(x="year", y="rank", m="rating")
 
 plot.savefig("Graph_attempt_1.png") 
