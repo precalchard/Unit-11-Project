@@ -20,8 +20,8 @@ print(f"The avreage run time for the top 250 movies is {avg(graph["run_time"])} 
 print(f"The most common age rating for the top 250 movies is {most_common(graph["age_rating"])}.")
 
 graph.plot.scatter(x="year", y="rating")
-# Used this graph to find the quality of games over time
+# Used this graph to find the quality of movies over time
 plot.xlabel("Years")
 plot.ylabel("Ratings")
-plot.title("Game Rating over Time")
-plot.savefig("Games_Time.png")
+plot.title("Movie Ratings over Time")
+plot.savefig("Movies_Time.png")
