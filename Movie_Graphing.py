@@ -13,6 +13,6 @@ def most_common(col):
 print(f"The avreage run time for the top 250 movies is {avg(graph["run_time"])} minutes.")
 print(f"The most common age rating for the top 250 movies is {most_common(graph["age_rating"])}.")
 
-graph.plot(x="year", y="rank", m="rating")
+graph.plot.scatter(x="year", y="rating")
 
-plot.savefig("Graph_attempt_1.png") 
+plot.savefig("Graph_attempt_1.png")

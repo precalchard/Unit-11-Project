@@ -3,12 +3,12 @@ rank,name,year,rating,age_rating,run_time
 2,The Godfather,1972,9.2,R,175
 3,The Dark Knight,2008,9,PG-13,152
 4,The Godfather Part II,1974,9,R,202
-5,12 Angry Men,1957,9,Approved,96
+5,12 Angry Men,1957,9,G,96
 6,Schindler's List,1993,9,R,195
 7,The Lord of the Rings: The Return of the King,2003,9,PG-13,201
 8,Pulp Fiction,1994,8.9,R,154
 9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,PG-13,178
-10,"The Good, the Bad and the Ugly",1966,8.8,Approved,178
+10,"The Good, the Bad and the Ugly",1966,8.8,G,178
 11,Forrest Gump,1994,8.8,PG-13,142
 12,Fight Club,1999,8.8,R,139
 13,The Lord of the Rings: The Two Towers,2002,8.8,PG-13,179
@@ -16,9 +16,9 @@ rank,name,year,rating,age_rating,run_time
 15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,PG,124
 16,The Matrix,1999,8.7,R,136
 17,Goodfellas,1990,8.7,R,145
-18,One Flew Over the Cuckoo's Nest,1975,8.7,18+,133
+18,One Flew Over the Cuckoo's Nest,1975,8.7,R,133
 19,Se7en,1995,8.6,R,127
-20,Seven Samurai,1954,8.6,Not Rated,207
+20,Seven Samurai,1954,8.6,G,207
 21,It's a Wonderful Life,1946,8.6,PG,130
 22,The Silence of the Lambs,1991,8.6,R,118
 23,City of God,2002,8.6,R,130
@@ -42,8 +42,8 @@ rank,name,year,rating,age_rating,run_time
 41,The Prestige,2006,8.5,PG-13,130
 42,Whiplash,2014,8.5,R,106
 43,Casablanca,1942,8.5,PG,102
-44,Grave of the Fireflies,1988,8.5,Not Rated,89
-45,Harakiri,1962,8.6,Not Rated,133
+44,Grave of the Fireflies,1988,8.5,G,89
+45,Harakiri,1962,8.6,G,133
 46,The Intouchables,2011,8.5,R,112
 47,Modern Times,1936,8.5,G,87
 48,Once Upon a Time in the West,1968,8.5,PG-13,165
@@ -57,12 +57,12 @@ rank,name,year,rating,age_rating,run_time
 56,Indiana Jones and the Raiders of the Lost Ark,1981,8.4,PG,115
 57,WALL·E,2008,8.4,G,98
 58,The Lives of Others,2006,8.4,R,137
-59,Sunset Blvd.,1950,8.4,Passed,110
-60,Paths of Glory,1957,8.4,Approved,88
+59,Sunset Blvd.,1950,8.4,G,110
+60,Paths of Glory,1957,8.4,G,88
 61,The Shining,1980,8.4,R,146
 62,The Great Dictator,1940,8.4,G,125
 63,Avengers: Infinity War,2018,8.4,PG-13,149
-64,Witness for the Prosecution,1957,8.4,Approved,116
+64,Witness for the Prosecution,1957,8.4,G,116
 65,Aliens,1986,8.4,R,137
 66,Spider-Man: Into the Spider-Verse,2018,8.4,PG,117
 67,American Beauty,1999,8.4,R,122
@@ -75,7 +75,7 @@ rank,name,year,rating,age_rating,run_time
 74,Toy Story,1995,8.3,G,81
 75,Joker,2019,8.4,R,122
 76,Braveheart,1995,8.4,R,178
-77,The Boat,1981,8.4,Not Available,210
+77,The Boat,1981,8.4,R,210
 78,Avengers: Endgame,2019,8.4,PG-13,181
 79,Princess Mononoke,1997,8.4,PG-13,134
 80,Once Upon a Time in America,1984,8.3,R,229
@@ -83,56 +83,56 @@ rank,name,year,rating,age_rating,run_time
 82,Your Name.,2016,8.4,TV-PG,106
 83,3 Idiots,2009,8.4,PG-13,170
 84,Singin' in the Rain,1952,8.3,G,103
-85,Requiem for a Dream,2000,8.3,Unrated,102
+85,Requiem for a Dream,2000,8.3,PG-13,102
 86,Toy Story 3,2010,8.3,G,103
-87,High and Low,1963,8.4,Not Rated,143
+87,High and Low,1963,8.4,G,143
 88,Capernaum,2018,8.4,R,126
 89,Star Wars: Episode VI - Return of the Jedi,1983,8.3,PG,131
 90,Eternal Sunshine of the Spotless Mind,2004,8.3,R,108
 91,2001: A Space Odyssey,1968,8.3,G,149
 92,Reservoir Dogs,1992,8.3,R,99
-93,Come and See,1985,8.4,Not Rated,142
+93,Come and See,1985,8.4,G,142
 94,The Hunt,2012,8.3,R,115
 95,Citizen Kane,1941,8.3,PG,119
-96,M,1931,8.3,Passed,99
-97,Lawrence of Arabia,1962,8.3,Approved,218
-98,North by Northwest,1959,8.3,Approved,136
+96,M,1931,8.3,G,99
+97,Lawrence of Arabia,1962,8.3,G,218
+98,North by Northwest,1959,8.3,G,136
 99,Vertigo,1958,8.3,PG,128
-100,Ikiru,1952,8.3,Not Rated,143
+100,Ikiru,1952,8.3,G,143
 101,Amélie,2001,8.3,R,122
-102,The Apartment,1960,8.3,Approved,125
+102,The Apartment,1960,8.3,G,125
 103,A Clockwork Orange,1971,8.3,X,136
-104,Double Indemnity,1944,8.3,Passed,107
+104,Double Indemnity,1944,8.3,G,107
 105,Full Metal Jacket,1987,8.3,R,116
 106,Top Gun: Maverick,2022,8.3,PG-13,130
 107,Scarface,1983,8.3,R,170
 108,Hamilton,2020,8.4,PG-13,160
 109,Incendies,2010,8.3,R,131
-110,To Kill a Mockingbird,1962,8.3,Approved,129
+110,To Kill a Mockingbird,1962,8.3,G,129
 111,Heat,1995,8.3,R,170
 112,The Sting,1973,8.3,PG,129
 113,Up,2009,8.3,PG,96
 114,A Separation,2011,8.3,PG-13,123
-115,Metropolis,1927,8.3,Not Rated,153
+115,Metropolis,1927,8.3,G,153
 116,Taxi Driver,1976,8.2,R,114
 117,L.A. Confidential,1997,8.2,R,138
 118,Die Hard,1988,8.2,R,132
 119,Snatch,2000,8.2,R,102
 120,Indiana Jones and the Last Crusade,1989,8.2,PG-13,127
-121,Bicycle Thieves,1948,8.3,Not Rated,89
+121,Bicycle Thieves,1948,8.3,G,89
 122,Like Stars on Earth,2007,8.3,PG,165
 123,1917,2019,8.2,R,119
 124,Downfall,2004,8.2,R,156
-125,Dangal,2016,8.3,Not Rated,161
+125,Dangal,2016,8.3,G,161
 126,For a Few Dollars More,1965,8.2,R,132
 127,Batman Begins,2005,8.2,PG-13,140
-128,The Kid,1921,8.3,Passed,68
-129,Some Like It Hot,1959,8.2,Passed,121
+128,The Kid,1921,8.3,G,68
+129,Some Like It Hot,1959,8.2,G,121
 130,The Father,2020,8.2,PG-13,97
-131,All About Eve,1950,8.2,Passed,138
+131,All About Eve,1950,8.2,G,138
 132,The Wolf of Wall Street,2013,8.2,R,180
 133,Green Book,2018,8.2,PG-13,130
-134,Judgment at Nuremberg,1961,8.3,Approved,179
+134,Judgment at Nuremberg,1961,8.3,G,179
 135,Casino,1995,8.2,R,178
 136,Ran,1985,8.2,R,162
 137,Pan's Labyrinth,2006,8.2,R,118
@@ -143,21 +143,21 @@ rank,name,year,rating,age_rating,run_time
 142,Shutter Island,2010,8.2,R,138
 143,A Beautiful Mind,2001,8.2,PG-13,135
 144,Jurassic Park,1993,8.2,PG-13,127
-145,Yojimbo,1961,8.2,Not Rated,110
-146,The Treasure of the Sierra Madre,1948,8.2,Passed,126
+145,Yojimbo,1961,8.2,G,110
+146,The Treasure of the Sierra Madre,1948,8.2,G,126
 147,Monty Python and the Holy Grail,1975,8.2,PG,91
-148,The Great Escape,1963,8.2,Approved,172
+148,The Great Escape,1963,8.2,G,172
 149,No Country for Old Men,2007,8.2,R,122
 150,Spider-Man: No Way Home,2021,8.2,PG-13,148
 151,Kill Bill: Vol. 1,2003,8.2,R,111
-152,Rashomon,1950,8.2,Not Rated,88
+152,Rashomon,1950,8.2,G,88
 153,The Thing,1982,8.2,R,109
 154,Finding Nemo,2003,8.2,G,100
 155,The Elephant Man,1980,8.2,PG,124
 156,Chinatown,1974,8.2,R,130
 157,Raging Bull,1980,8.2,R,129
 158,V for Vendetta,2005,8.2,R,132
-159,Gone with the Wind,1939,8.2,Passed,238
+159,Gone with the Wind,1939,8.2,G,238
 160,"Lock, Stock and Two Smoking Barrels",1998,8.2,R,107
 161,Inside Out,2015,8.2,PG,95
 162,Dial M for Murder,1954,8.2,PG,105
@@ -175,38 +175,38 @@ rank,name,year,rating,age_rating,run_time
 174,Million Dollar Baby,2004,8.1,PG-13,132
 175,Children of Heaven,1997,8.2,PG,89
 176,Blade Runner,1982,8.1,R,117
-177,The Gold Rush,1925,8.1,Passed,95
+177,The Gold Rush,1925,8.1,G,95
 178,Before Sunrise,1995,8.1,R,101
 179,12 Years a Slave,2013,8.1,R,134
 180,Klaus,2019,8.2,PG,96
 181,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,PG-13,130
-182,On the Waterfront,1954,8.1,Approved,108
+182,On the Waterfront,1954,8.1,G,108
 183,Ben-Hur,1959,8.1,G,212
 184,Gone Girl,2014,8.1,R,149
 185,The Grand Budapest Hotel,2014,8.1,R,99
-186,Wild Strawberries,1957,8.1,Not Rated,91
-187,The General,1926,8.1,Passed,67
-188,The Third Man,1949,8.1,Approved,93
+186,Wild Strawberries,1957,8.1,G,91
+187,The General,1926,8.1,G,67
+188,The Third Man,1949,8.1,G,93
 189,In the Name of the Father,1993,8.1,R,133
 190,The Deer Hunter,1978,8.1,R,183
 191,Barry Lyndon,1975,8.1,PG,185
 192,Hacksaw Ridge,2016,8.1,R,139
-193,The Wages of Fear,1953,8.2,Not Rated,131
-194,Memories of Murder,2003,8.1,Not Rated,132
-195,Sherlock Jr.,1924,8.2,Passed,45
+193,The Wages of Fear,1953,8.2,G,131
+194,Memories of Murder,2003,8.1,G,132
+195,Sherlock Jr.,1924,8.2,G,45
 196,Wild Tales,2014,8.1,R,122
-197,Mr. Smith Goes to Washington,1939,8.1,Passed,129
+197,Mr. Smith Goes to Washington,1939,8.1,G,129
 198,Mad Max: Fury Road,2015,8.1,R,120
-199,The Seventh Seal,1957,8.1,Not Rated,96
-200,Mary and Max,2009,8.1,Not Rated,92
+199,The Seventh Seal,1957,8.1,G,96
+200,Mary and Max,2009,8.1,G,92
 201,How to Train Your Dragon,2010,8.1,PG,98
 202,Room,2015,8.1,R,118
 203,"Monsters, Inc.",2001,8.1,G,92
 204,Jaws,1975,8.1,PG,124
 205,Dead Poets Society,1989,8.1,PG,128
 206,The Big Lebowski,1998,8.1,R,117
-207,Tokyo Story,1953,8.2,Not Rated,136
-208,The Passion of Joan of Arc,1928,8.2,Passed,114
+207,Tokyo Story,1953,8.2,G,136
+208,The Passion of Joan of Arc,1928,8.2,G,114
 209,Hotel Rwanda,2004,8.1,PG-13,121
 210,Ford v Ferrari,2019,8.1,PG-13,152
 211,Rocky,1976,8.1,PG,120
@@ -215,33 +215,33 @@ rank,name,year,rating,age_rating,run_time
 214,Spotlight,2015,8.1,R,129
 215,The Terminator,1984,8.1,R,107
 216,Logan,2017,8.1,R,137
-217,Stand by Me,1986,8.1,13+,89
+217,Stand by Me,1986,8.1,PG-13,89
 218,Rush,2013,8.1,R,123
 219,Network,1976,8.1,R,121
 220,Into the Wild,2007,8.1,R,148
 221,Before Sunset,2004,8.1,R,80
 222,The Wizard of Oz,1939,8.1,G,102
-223,Pather Panchali,1955,8.3,Not Rated,125
+223,Pather Panchali,1955,8.3,G,125
 224,Groundhog Day,1993,8.1,PG,101
-225,The Best Years of Our Lives,1946,8.1,Approved,170
+225,The Best Years of Our Lives,1946,8.1,G,170
 226,The Exorcist,1973,8.1,R,122
 227,The Incredibles,2004,8,PG,115
-228,To Be or Not to Be,1942,8.2,Passed,99
-229,La haine,1995,8.1,Not Rated,98
-230,The Battle of Algiers,1966,8.1,Not Rated,121
+228,To Be or Not to Be,1942,8.2,G,99
+229,La haine,1995,8.1,G,98
+230,The Battle of Algiers,1966,8.1,G,121
 231,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,PG-13,143
 232,Hachi: A Dog's Tale,2009,8.1,G,93
-233,The Grapes of Wrath,1940,8.1,Passed,129
-234,Jai Bhim,2021,8.8,TV-MA,164
-235,My Father and My Son,2005,8.2,Not Rated,112
+233,The Grapes of Wrath,1940,8.1,G,129
+234,Jai Bhim,2021,8.8,R,164
+235,My Father and My Son,2005,8.2,G,112
 236,Amores Perros,2000,8.1,R,154
-237,Rebecca,1940,8.1,Approved,130
-238,Cool Hand Luke,1967,8.1,GP,127
-239,The Handmaiden,2016,8.1,Not Rated,145
-240,The 400 Blows,1959,8.1,Not Rated,99
+237,Rebecca,1940,8.1,G,130
+238,Cool Hand Luke,1967,8.1,PG,127
+239,The Handmaiden,2016,8.1,G,145
+240,The 400 Blows,1959,8.1,G,99
 241,The Sound of Music,1965,8.1,G,172
-242,It Happened One Night,1934,8.1,Passed,105
-243,Persona,1966,8.1,Not Rated,83
+242,It Happened One Night,1934,8.1,G,105
+243,Persona,1966,8.1,G,83
 244,Life of Brian,1979,8,R,94
 245,The Iron Giant,1999,8.1,PG,86
 246,The Help,2011,8.1,PG-13,146
